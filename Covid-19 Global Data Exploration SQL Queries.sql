@@ -1,5 +1,5 @@
 /*
-
+Author: Jesús Andrey Salazar Araya
 Queries used for PowerBI Project
 
 */

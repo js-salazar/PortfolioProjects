@@ -41,7 +41,7 @@ Group by Location, Population, date
 order by location asc,date asc
 
 
--- 5. Total Population vs Vaccinations. New Vaccinations is per day
+-- 5. Total Population vs Vaccinations. New Vaccinations are per day
 
 WITH PopvsVac (Continent, Location, Date, Population, New_Vaccinations,RollingPeopleVaccinated)
 AS(

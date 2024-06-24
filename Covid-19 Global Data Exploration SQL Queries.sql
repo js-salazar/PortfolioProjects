@@ -1,3 +1,4 @@
+-- Author: Jesús Andrey Salazar Araya
 --Data as of June 2024
 
 SELECT *
